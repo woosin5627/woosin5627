@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&text=&animation=&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&text=&animation=&fontColor=000000&fontSize=60" /img>
 </div>
 
 ## 한신대학교 재학생 김우신  
