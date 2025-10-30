@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stacks
 
-![GitHub Pages](https://img.shields.io/badge/GitHub Pages-222222?style=plastic&logo=GitHub%20Pages&logoColor=white)
+
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
