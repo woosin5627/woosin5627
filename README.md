@@ -47,16 +47,6 @@
 
 ---
 
-## 🏅 Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
-</div>
-
----
 
 ## 📘 프로젝트 개요
 
