@@ -1,76 +1,172 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&text=김우신의%20개발%20스페이스🌟&animation=fadeIn&fontColor=000000&fontSize=50" />
+
+# 👋 안녕하세요, 김우신입니다!
+
+### 정보보안 × 인공지능 융합 전문가를 꿈꾸는 개발자
+
+[![GitHub](https://img.shields.io/badge/GitHub-woosin5627-181717?style=flat-square&logo=github)](https://github.com/woosin5627)
+[![Email](https://img.shields.io/badge/Email-mkpark7165@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mkpark7165@gmail.com)
+
 </div>
 
-## 한신대학교 재학생 김우신  
+---
 
-현재 한신대학교에서 **AI·SW 계열**을 전공하고 있는 학생입니다.  
-꾸준히 성장하며 더 나은 **개발자 & 보안 전문가**가 되는 것이 목표입니다.  
-기술을 통해 세상을 이롭게 만드는 것을 꿈꿉니다. 🚀  
+## 🎓 소개
+
+**이름**: 김우신  
+**소속**: 한신대학교 AISW 계열 1학년  
+**관심 분야**: 정보보안 | 인공지능 | AI 보안 융합
+
+> 정보보안과 인공지능 분야의 융합 전문가를 목표로, 한신대학교 AISW 학부 과정을 통해 보안 실습 및 다양한 프로젝트에 꾸준히 참여해왔습니다. 실전 경험과 최신 기술 습득을 바탕으로 문제 해결력과 협업 능력을 키웠으며, 앞으로도 다양한 실습과 오픈소스 활동을 통해 실무 역량을 높이고자 합니다.
 
 ---
 
-## 🛠️ Tech Stacks
+## 🎯 학업 목표 & 성장 스토리
 
-**언어 및 프레임워크**
-  
-![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
+### 📚 현재 학습 중
+- **전공 강의**를 통한 컴퓨터과학 기초 다지기
+- Python 프로그래밍 역량 강화
+- Git/GitHub를 활용한 버전 관리 및 협업 방법론 습득
 
-**디자인 및 협업 툴**
+### 🌱 성장 방향
+```
+🔐 정보보안 기초 → 네트워크 보안 → AI 기반 보안 시스템
+🤖 AI/ML 기초 → 딥러닝 → 보안 분야 AI 적용
+```
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white)
-
----
-
-## ✨ 주요 기능 (Features)
-
-| 기능 | 설명 |
-|------|------|
-| 🧩 **API 연동 경험** | OpenWeather, ChatGPT 등 외부 API 연동 및 데이터 시각화 실습 |
-| ⚙️ **팀 협업 및 Git 관리** | GitHub를 통한 브랜치 전략, 코드 리뷰, 협업 경험 |
----
-
-## 🧑‍💻 Contact me
-
-<a href="https://instagram.com/woosin0218">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white">
-</a>
-<a href="mailto:mkpark7165@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white">
-</a>
+### 💡 목표
+1. **단기 목표**: Python 기반 보안 도구 개발 능력 확보
+2. **중기 목표**: AI 모델을 활용한 침입 탐지 시스템 구현
+3. **장기 목표**: 정보보안과 AI 융합 분야 전문가로 성장
 
 ---
 
+## 🚀 프로젝트
 
-## 📘 프로젝트 개요
+### 📌 진행 예정 프로젝트
 
-이 프로젝트는 **한신대학교 웹 프로그래밍 과제**로 진행되었습니다.  
-요구사항 분석 → 설계 → 구현 → 테스트의 전 과정을 직접 수행하며,  
-**코드의 가독성**, **유지보수성**, **UI 일관성**을 중점적으로 고려했습니다.  
+현재 기초 학습 단계로, 다음과 같은 프로젝트를 계획하고 있습니다:
 
-**핵심 목표**
-- 학습한 기술을 실제 프로젝트에 적용
-- 협업 중심 개발 프로세스 이해
-- 실무에서 요구되는 코드 품질 유지 능력 향상
+<table>
+<tr>
+<td width="50%">
+
+#### 🔒 보안 도구 개발
+- Python 기반 간단한 보안 스크립트
+- 패스워드 강도 검사기
+- 파일 해시 검증 도구
+
+</td>
+<td width="50%">
+
+#### 🤖 AI 모델 실습
+- 머신러닝 기초 실습
+- 이미지 분류 모델 구현
+- 데이터 전처리 파이프라인
+
+</td>
+</tr>
+</table>
+
+> 💪 **Coming Soon!** 프로젝트가 완성되는 대로 이곳에 업데이트됩니다.
 
 ---
 
-## ⚙️ 실행 방법
+## 🛠 기술 스택
 
-```bash
-# 1. 저장소 클론
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+### 💻 Programming Languages
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
 
-# 2. 의존성 설치
-npm install
+### 🔧 Tools & Environment
+<div>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</div>
 
-# 3. 로컬 서버 실행
-npm run dev
+### 📖 Learning
+<div>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Information_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</div>
+
+---
+
+## 👥 협업 & 팀 프로젝트
+
+### 🤝 협업 경험
+현재는 개인 학습에 집중하고 있으며, **앞으로 다양한 팀 프로젝트에 참여하여 협업 경험을 쌓을 계획**입니다.
+
+### 🎓 학습 중인 협업 도구
+- **Git/GitHub**: 버전 관리 및 협업 워크플로우
+- **Pull Request & Code Review**: 코드 품질 관리
+- **Issue Tracking**: 프로젝트 관리 방법론
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=woosin5627&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woosin5627&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=woosin5627&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 링크 & 활동
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💻 GitHub
+[![GitHub](https://img.shields.io/badge/woosin5627-181717?style=for-the-badge&logo=github)](https://github.com/woosin5627)
+
+</td>
+<td align="center" width="33%">
+
+### 📧 Email
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkpark7165@gmail.com)
+
+</td>
+<td align="center" width="33%">
+
+### 📝 Blog
+[![Blog](https://img.shields.io/badge/Coming_Soon-00C7B7?style=for-the-badge&logo=blogger&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📞 연락처
+
+궁금한 점이나 협업 제안이 있으시다면 언제든 연락주세요!
+
+- **Email**: [mkpark7165@gmail.com](mailto:mkpark7165@gmail.com)
+- **GitHub**: [@woosin5627](https://github.com/woosin5627)
+
+---
+
+<div align="center">
+
+### 🌟 "끊임없는 학습과 실천으로 성장하는 개발자"
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoosin5627&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=방문자&edge_flat=false)
+
+</div>
+
+---
+
+<div align="center">
+<sub>© 2024 Woosin Kim. All rights reserved.</sub>
+</div>
